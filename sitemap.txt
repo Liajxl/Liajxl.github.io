@@ -12,11 +12,11 @@ http://example.com/tags/windows/
 http://example.com/tags/vim/
 http://example.com/tags/IP/
 http://example.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/
-http://example.com/tags/Dos/
-http://example.com/tags/%E6%80%BB%E7%BB%93/
 http://example.com/tags/hexo/
 http://example.com/tags/markdown/
 http://example.com/tags/github/
+http://example.com/tags/Dos/
+http://example.com/tags/%E6%80%BB%E7%BB%93/
 http://example.com/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 http://example.com/categories/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/
 http://example.com/categories/%E6%98%93%E5%BF%98%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/
